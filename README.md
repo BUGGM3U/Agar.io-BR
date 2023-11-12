@@ -11,7 +11,7 @@ Como Agar.io BR é escrito em Node.js, você deve ter o Node.js e seu módulo "w
 Embora o Agar.io BR permita que você execute o servidor mestre Agar.io e o servidor de jogo separadamente, atualmente é recomendado que você execute os dois servidores juntos até que o servidor mestre esteja mais implementado. Alternativamente, você pode executar apenas o servidor do jogo e usar um mod do lado do cliente para conectar-se ao endereço IP do servidor.
 
 ```sh
-~$ git clone git:github.com/Faris90/Agar.io BR.git Agar.io BR
+~$ git clone git:github.com/BUGG404M3U/Agar.io BR.git "Agar.io BR"
 ~$ npm install ./Agar.io BR
 ~$ npm início
 ```
