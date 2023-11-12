@@ -3,8 +3,6 @@ Uma implementação de servidor Agar.io de código aberto, baseada em [Ogarserv]
 
 ## Como acessar o servidor
 Vá para localhost se você definir a porta como 80, vá para localhost:80
-## Rastreador de servidor
-  [Rastreador de Servidor](http://ogar3tracker.wdr.icu/)
   ## Informações
 Como Agar.io BR é escrito em Node.js, você deve ter o Node.js e seu módulo "ws" instalados para usá-lo (a menos que você esteja no Windows). Geralmente você pode baixar o Node usando o gerenciador de pacotes da sua distribuição (para sistemas do tipo unix) ou no [site do Node](http://nodejs.org). Para instalar o módulo “ws” necessário, abra a linha de comando do sistema (cmd para windows, terminal para mac) e digite “npm install ws”.
 
