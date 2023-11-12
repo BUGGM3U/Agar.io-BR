@@ -1,37 +1,26 @@
-# Ogar3
-An open source Agar.io server implementation, based on Jaralowell's [Ogarserv](https://github.com/JaraLowell/OgarServ/releases/tag/1.5.9) & [Cigar](https://github.com/CigarProject/Cigar)
+#Agar.io BR
+Uma implementação de servidor Agar.io de código aberto, baseada em [Ogarserv](https://github.com/JaraLowell/OgarServ/releases/tag/1.5.9) de Jaralowell e [Cigar](https://github.com/CigarProject /Charuto)
 
-## Want old version?
-[Here you go!](https://github.com/Faris90/Ogar3/tree/old-ogar3)
-## Project Status
-The [Server Tracker](http://ogar3tracker.wdr.icu/) is up and running
+## Como acessar o servidor
+Vá para localhost se você definir a porta como 80, vá para localhost:80
+## Rastreador de servidor
+  [Rastreador de Servidor](http://ogar3tracker.wdr.icu/)
+  ## Informações
+Como Agar.io BR é escrito em Node.js, você deve ter o Node.js e seu módulo "ws" instalados para usá-lo (a menos que você esteja no Windows). Geralmente você pode baixar o Node usando o gerenciador de pacotes da sua distribuição (para sistemas do tipo unix) ou no [site do Node](http://nodejs.org). Para instalar o módulo “ws” necessário, abra a linha de comando do sistema (cmd para windows, terminal para mac) e digite “npm install ws”.
 
-
-## How to access server
-Go to localhost if you set the port to 80 go to localhost:80
-## Demos
-[Replit](https://ogar3.faris90.repl.co)
-## Obtaining and Using
-## Server tracker
- [Server Tracker](http://ogar3tracker.wdr.icu/)
- ## Info
-As Ogar3 is written in Node.js, you must have Node.js and its "ws" module installed to use it (Unless you are on Windows). You can usually download Node using your distribution's package manager (for *nix-like systems), or from [the Node website](http://nodejs.org). To install the "ws" module that is required, open up your system command line (cmd for windows, terminal for mac) and type "npm install ws".
-
-Although Ogar3 allows you to run both the Agar.io master server and game server separately, it's currently recommended that you run both servers together until the master server is more implemented. Alternatively, you could run the game server only, and use a client-side mod to connect to the IP address of the server.
+Embora o Agar.io BR permita que você execute o servidor mestre Agar.io e o servidor de jogo separadamente, atualmente é recomendado que você execute os dois servidores juntos até que o servidor mestre esteja mais implementado. Alternativamente, você pode executar apenas o servidor do jogo e usar um mod do lado do cliente para conectar-se ao endereço IP do servidor.
 
 ```sh
-~$ git clone git:github.com/Faris90/Ogar3.git Ogar3
-~$ npm install ./Ogar3	
-~$ npm start
+~$ git clone git:github.com/Faris90/Agar.io BR.git Agar.io BR
+~$ npm install ./Agar.io BR
+~$ npm início
 ```
 
-Currently, Ogar3 listens on this port(for now):
-* *:80 - for the game server
+Atualmente, Agar.io BR escuta nesta porta (por enquanto):
+* *:80 - para o servidor do jogo
 
 
-Please note that on some systems, you may have to run the process as root or otherwise elevate your privileges to allow the process to listen on the needed ports.
+Observe que em alguns sistemas, pode ser necessário executar o processo como root ou elevar seus privilégios para permitir que o processo escute nas portas necessárias.
 
-## Configuring Ogar3
-Use gameserver.ini in src to modify Ogar3's configurations field.
-
-
+## Configurando Agar.io BR
+Use gameserver.ini em src para modificar o campo de configurações do Agar.io BR.
