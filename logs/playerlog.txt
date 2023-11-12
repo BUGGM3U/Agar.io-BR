@@ -1,0 +1,21 @@
+OGar Server - Game Mode: Free For All - Running Time: 6sec
+ID:    1, Nick: [BOT] 9gag     , Score:     74, Cells:  1, Status: 1 IP: BOT
+ID:    2, Nick: [BOT] Prodota  , Score:     62, Cells:  2, Status: 1 IP: BOT
+ID:    3, Nick: [BOT] Facepunch, Score:     58, Cells:  1, Status: 1 IP: BOT
+ID:    4, Nick: [BOT] Luxembourg, Score:     34, Cells:  1, Status: 1 IP: BOT
+ID:    5, Nick: [BOT] USA      , Score:     76, Cells:  1, Status: 1 IP: BOT
+ID:    6, Nick: [BOT] Bosnia   , Score:     59, Cells:  1, Status: 1 IP: BOT
+ID:    7, Nick: [BOT] Bait     , Score:     51, Cells:  1, Status: 1 IP: BOT
+ID:    8, Nick: [BOT] Cambodia , Score:     39, Cells:  1, Status: 1 IP: BOT
+ID:    9, Nick: [BOT] Germany  , Score:     58, Cells:  1, Status: 1 IP: BOT
+ID:   10, Nick: [BOT] Mars     , Score:     76, Cells:  1, Status: 1 IP: BOT
+ID:   11, Nick: [BOT] Netherlands, Score:    107, Cells:  1, Status: 1 IP: BOT
+ID:   12, Nick: [BOT] Iran     , Score:     38, Cells:  1, Status: 1 IP: BOT
+ID:   13, Nick: [BOT] Bangladesh, Score:     82, Cells:  1, Status: 1 IP: BOT
+ID:   14, Nick: [BOT] Nigeria  , Score:     61, Cells:  1, Status: 1 IP: BOT
+ID:   15, Nick: [BOT] Latvia   , Score:     50, Cells:  1, Status: 1 IP: BOT
+ID:   16, Nick: [BOT] Nasa     , Score:     35, Cells:  1, Status: 1 IP: BOT
+ID:   17, Nick: [BOT] Estonia  , Score:     58, Cells:  1, Status: 1 IP: BOT
+ID:   18, Nick: [BOT] Ireland  , Score:     56, Cells:  1, Status: 1 IP: BOT
+ID:   19, Nick: [BOT] Japan    , Score:     55, Cells:  1, Status: 1 IP: BOT
+ID:   20, Nick: [BOT] Maldivas , Score:     60, Cells:  1, Status: 1 IP: BOT
